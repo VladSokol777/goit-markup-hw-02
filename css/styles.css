@@ -1,0 +1,45 @@
+@font-face {
+  .raleway-<uniquifier > {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+    .roboto-regular {
+      font-weight: 400;
+      font-style: normal;
+    }
+    .roboto-medium {
+      font-weight: 500;
+      font-style: normal;
+    }
+    .roboto-bold {
+      font-weight: 700;
+      font-style: normal;
+    }
+  }
+}
+body {
+  font-family: "Roboto" sans-serif;
+  margin: 0;
+  color: #434455;
+}
+
+.main-page {
+  background: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+.main-page-text-conteiner {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  padding-top: 188px;
+  padding-left: 472px;
+  padding-right: 472px;
+  border-bottom: 48px;
+  box-sizing: border-box;
+}
