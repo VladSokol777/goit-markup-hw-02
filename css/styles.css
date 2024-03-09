@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
+  background-color: #ffffff;
   font-size: 16px;
 }
 span {
@@ -10,11 +11,27 @@ span {
   border-bottom: 1px solid #e7e9fc;
   width: 1440px;
   height: 72px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  line-height: 1.17;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
+.list-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* section1 */
 .main-page {
   background: #2e2f42;
 }
-/* section1 */
+
 .main-page-text-conteiner {
   font-weight: 700;
   font-size: 56px;
@@ -23,7 +40,7 @@ span {
   text-align: center;
   color: #fff;
 }
-.button {
+.btn {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   border-radius: 4px;
