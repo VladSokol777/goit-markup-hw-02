@@ -9,8 +9,7 @@ span {
 }
 .logo {
   border-bottom: 1px solid #e7e9fc;
-  width: 1440px;
-  height: 72px;
+
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
@@ -45,9 +44,7 @@ span {
   background: #4d5ae5;
   border-radius: 4px;
   padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
