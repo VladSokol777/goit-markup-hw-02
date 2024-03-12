@@ -18,6 +18,9 @@ span {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+.nav-menu {
+  background: #fff;
+}
 .list-title {
   font-weight: 500;
   font-size: 16px;
@@ -31,7 +34,7 @@ span {
 .list-title:focus {
   color: #404bbf;
 }
-address {
+.contacts {
   font-style: normal;
 }
 .mail-address {
