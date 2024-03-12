@@ -88,12 +88,17 @@ span {
   color: #fff;
   cursor: pointer;
 }
+.btn:hover {
+  background-color: #404bbf;
+}
+.btn:focus {
+  background-color: #404bbf;
+}
 /* section 2 */
-.title-text-section-1 {
+.title-text-section-2 {
   background-color: #f4f4fd;
 }
 .title-text-section {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
