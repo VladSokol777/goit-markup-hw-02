@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
   font-size: 16px;
 }
+.header {
+}
+.header-menu {
+}
 span {
   color: #2e2f42;
 }
@@ -18,7 +22,7 @@ span {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.nav-menu {
+.header-menu-list {
   background: #fff;
 }
 .list-title {
@@ -95,7 +99,8 @@ span {
   background-color: #404bbf;
 }
 /* section 2 */
-
+.text-title {
+}
 .title {
   font-weight: 500;
   font-size: 20px;
