@@ -25,7 +25,6 @@ span {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  list-style-type: none;
 }
 .contacts {
 }
@@ -35,7 +34,6 @@ span {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
-  list-style-type: none;
 }
 .contacts li:hover {
   color: #404bbf;
