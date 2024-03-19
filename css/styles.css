@@ -18,16 +18,14 @@ body {
 span {
   color: #2e2f42;
 }
-.navbar {
-}
-.navbar .conteiner {
-}
+
 .navbar-menu li {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  list-style-type: none;
 }
 .contacts {
 }
@@ -37,6 +35,7 @@ span {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  list-style-type: none;
 }
 .contacts li:hover {
   color: #404bbf;
@@ -44,4 +43,36 @@ span {
 
 . li:focus {
   color: #404bbf;
+}
+/* section 1 */
+.main-page {
+  background: #fff;
+  background: #2e2f42;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.btn {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #404bbf;
+}
+
+.btn:focus {
+  background-color: #404bbf;
 }
