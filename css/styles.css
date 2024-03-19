@@ -3,7 +3,9 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+.header {
+  background: #fff;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -40,6 +42,6 @@ span {
   color: #404bbf;
 }
 
-.contacts li:focus {
+. li:focus {
   color: #404bbf;
 }
