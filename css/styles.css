@@ -26,13 +26,13 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.navbar-menu a:hover {
-  color: #404bbf;
-}
+.navbar-menu a:hover,
 .navbar-menu a:focus {
   color: #404bbf;
 }
+
 .contacts {
+  font-style: normal;
 }
 .navbar-contacts a {
   font-weight: 400;
@@ -50,12 +50,13 @@ span {
   color: #404bbf;
 }
 /* section 1 */
-.main-page {
+
+.section-1 {
   background: #fff;
   background: #2e2f42;
 }
-
-h1 {
+.title-post {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 107%;
@@ -63,6 +64,7 @@ h1 {
   text-align: center;
   color: #fff;
 }
+
 .btn {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
@@ -74,10 +76,26 @@ h1 {
   color: #fff;
 }
 
-.btn:hover {
-  background-color: #404bbf;
-}
-
+.btn:hover,
 .btn:focus {
   background-color: #404bbf;
+}
+.section-2 {
+}
+.navbar-menu-text {
+}
+.title1 h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.section-2 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
