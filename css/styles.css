@@ -31,10 +31,10 @@ span {
   color: #404bbf;
 }
 
-.contacts {
+.address {
   font-style: normal;
 }
-.navbar-contacts a {
+.address-list a {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -42,16 +42,16 @@ span {
   color: #434455;
 }
 
-.navbar-contacts a:hover {
+.address-list a:hover {
   color: #404bbf;
 }
 
-.navbar-contacts a:focus {
+.address-list a:focus {
   color: #404bbf;
 }
-/* section 1 */
+/* section 0 */
 
-.section-1 {
+.section-0 {
   background: #fff;
   background: #2e2f42;
 }
@@ -80,26 +80,26 @@ h1 {
 .btn:focus {
   background-color: #404bbf;
 }
-/* section-2 */
-.section-2 {
+/* section-1 */
+.section-1 {
   background: #fff;
 }
-.navbar-menu-text h3 {
+.post-text h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.navbar-menu-text p {
+.post-text p {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* section 3 */
-.section-3 {
+/* section 2 */
+.section-2 {
   background: #f4f4fd;
 }
 .post-title {
@@ -110,7 +110,7 @@ h1 {
   text-align: center;
   color: #2e2f42;
 }
-.section-3 h3 {
+.section-2 h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -118,7 +118,7 @@ h1 {
   text-align: center;
   color: #2e2f42;
 }
-.section-3 p {
+.section-2 p {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -127,8 +127,8 @@ h1 {
   color: #434455;
 }
 
-/* section 4 */
-.section-4 {
+/* section 3 */
+.section-3 {
   background: #fff;
 }
 .navbar-name-app h2 {
@@ -140,14 +140,15 @@ h1 {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.section-4 h3 {
+.section-3 h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
+
   color: #2e2f42;
 }
-.section-4 p {
+.section-3 p {
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
