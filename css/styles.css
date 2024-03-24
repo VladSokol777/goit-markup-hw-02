@@ -35,8 +35,8 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.nav-item:hover,
-.nav-item:hover:focus {
+.nav-list a:hover,
+.nav-list a:hover:focus {
   color: #404bbf;
 }
 
@@ -50,7 +50,7 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.address-item:hover,
-.address-item:focus {
+.address-list a:hover,
+.address-list a:focus {
   color: #404bbf;
 }
