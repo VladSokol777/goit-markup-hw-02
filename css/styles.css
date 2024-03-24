@@ -101,7 +101,7 @@ ol {
 .section-3 {
   background-color: #f4f4fd;
 }
-.post-title {
+.post-title-section-3 {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -128,13 +128,20 @@ ol {
 /* section 4 */
 .section-4 {
 }
-.post-title {
-  font-family: "Roboto", sans-serif;
+.post-title-section-4 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.1%;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
+}
+
+.post-title-app {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .text-title-app {
