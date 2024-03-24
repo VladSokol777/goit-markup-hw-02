@@ -51,18 +51,18 @@ ol {
   color: #404bbf;
 }
 
-/* section-0 */
-.section-0 {
+/* hero image */
+.hero image {
   background-color: #2e2f42;
 }
 
-h1 {
+.main-page-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 .btn {
   font-weight: 500;
