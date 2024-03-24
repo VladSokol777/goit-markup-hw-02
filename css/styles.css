@@ -78,7 +78,9 @@ ol {
 .btn:focus {
   background-color: #404bbf;
 }
-/* team-work section 1 */
+/* team-work section 2 */
+.feature {
+}
 
 .page-title {
   font-weight: 500;
@@ -93,4 +95,66 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+/* section 2 */
+/* section 3 */
+.section-3 {
+  background-color: #f4f4fd;
+}
+.post-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.post-title-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.post-title-work {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+/* section 4 */
+.section-4 {
+}
+.post-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.text-title-app {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* footer */
+.footer {
+  background: #2e2f42;
+}
+.logo-part-footer {
+  color: #f4f4fd;
+}
+.text-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
