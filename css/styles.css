@@ -126,8 +126,10 @@ ol {
   color: #434455;
 }
 /* section 4 */
+.section-4 {
+}
 
-.post-title-section_4 {
+.post-title-section-4 {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
