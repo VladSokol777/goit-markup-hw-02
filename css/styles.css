@@ -98,17 +98,17 @@ ol {
 }
 
 /* section 3 */
-.section-3 {
+.section-three {
   background-color: #f4f4fd;
 }
 .list-photo {
   background-color: #ffffff;
 }
-.post-title-section-3 {
+.post-title-section-three {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -130,17 +130,17 @@ ol {
   color: #434455;
 }
 /* section 4 */
-.section-4 {
+.section-four {
 }
 
-.post-title-section-4 {
-  font-family: "Roboto", sans-serif;
+.post-title-section-four {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .post-title-app {
