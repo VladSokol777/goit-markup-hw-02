@@ -101,7 +101,7 @@ ol {
 .section-three {
   background-color: #f4f4fd;
 }
-.list-photo {
+.section-three li {
   background-color: #ffffff;
 }
 .post-title-section-three {
@@ -112,6 +112,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .post-title-name {
   font-weight: 500;
