@@ -96,7 +96,7 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/* section 2 */
+
 /* section 3 */
 .section-3 {
   background-color: #f4f4fd;
@@ -127,9 +127,9 @@ ol {
 }
 /* section 4 */
 
-.post-title-section-4 {
+.post-title-section_4 {
   font-size: 36px;
-  line-height: 1.11%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
