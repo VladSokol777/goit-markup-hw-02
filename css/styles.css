@@ -101,10 +101,14 @@ ol {
 .section-3 {
   background-color: #f4f4fd;
 }
+.list-photo {
+  background-color: #ffffff;
+}
 .post-title-section-3 {
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -130,12 +134,13 @@ ol {
 }
 
 .post-title-section-4 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .post-title-app {
